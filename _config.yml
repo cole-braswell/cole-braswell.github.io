@@ -28,7 +28,8 @@ twitter_username: ColeBraswell
 github_username:  cole-braswell
 
 # Build settings
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: broccolini/swiss
+theme_color: yellow
 plugins:
 - jekyll-feed
 
